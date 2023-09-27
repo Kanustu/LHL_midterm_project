@@ -1,5 +1,4 @@
 .DS_store
 .ipynb_checkpoints
-.Icon?
-.Icon
-refs/Icon?
+!Icon
+
