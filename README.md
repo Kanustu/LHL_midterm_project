@@ -8,9 +8,9 @@ Lighthouse Labs Data Science Program
 
 # Project/Goals
 
-- Perform Data Analysis US Tornadoes Data
+- Perform Data Analysis using US Tornadoes Data
     - uncover meaningful insights using statistical modeling and data visualization practices
-- Perform Statistical Modelling US Tornadoes Data
+- Perform Statistical Modelling using US Tornadoes Data
     - form high-level questions for the data  In this project, we hypothesized about the relationship between tornado frequency and climate change (specifically annual average temperature). We assumed and wanted to test the idea that as global temperatures rise so will the frequency of tornadoes in the US. This hypothesis can be framed as:
     - ### **Null hypothesis:**  There is no relationship between the annual frequency of tornadoes and the US's annual average temperature. 
     - ### **Alternative hypothesis:** There is a relationship between the annual frequency of tornadoes and the US's annual average temperature.
