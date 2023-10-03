@@ -2,9 +2,9 @@
 LHL Midterm Project: Data Analysis, Visualization, and Statistical Modelling of US Tornadoes
 ---
 
-By: Jordan Kanustu and Brigitte Sullivan
-Submitted on: Tuesday, October 3, 2023
-Lighthouse Labs Data Science Program
+By: Jordan Kanustu and Brigitte Sullivan </br>
+Submitted on: Tuesday, October 3, 2023 </br>
+Lighthouse Labs Data Science Program </br>
 
 # Project/Goals
 
