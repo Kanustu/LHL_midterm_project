@@ -2,7 +2,7 @@
 The Eye of the Storm: Data Analysis, Visualization, and Statistical Modelling of US Tornadoes
 ---
 
-By: Jordan Kanustu and Brigitte Sullivan </br>
+By: Jordan Kanius and Brigitte Sullivan </br>
 Submitted on: Tuesday, October 3, 2023 </br>
 Lighthouse Labs Data Science Program </br>
 
