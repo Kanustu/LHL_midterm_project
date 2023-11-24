@@ -1,5 +1,5 @@
 # LHL_midterm_project
-LHL Midterm Project: Data Analysis, Visualization, and Statistical Modelling of US Tornadoes
+The Eye of the Storm: Data Analysis, Visualization, and Statistical Modelling of US Tornadoes
 ---
 
 By: Jordan Kanustu and Brigitte Sullivan </br>
